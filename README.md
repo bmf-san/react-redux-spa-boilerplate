@@ -12,7 +12,12 @@ This is a SPA boilerplate working with react, react-redux, react-router, and so 
 
 # Get Started
 `npm install`
-`npm run`
+`npm run build`
+`npm run start`
+
+# Other Infomation
+If you want to see a more practical SPA example, please check this repository.
++ [laravel-react-redux-blog-boilerplate](https://github.com/bmf-san/laravel-react-redux-blog-boilerplate)
 
 # License
 This project is licensed under the terms of the MIT license.
