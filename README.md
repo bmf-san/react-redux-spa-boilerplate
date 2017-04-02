@@ -1,11 +1,14 @@
 # React Redux Boilerplate
-This is a boilerplate working with react, react-redux.
+This is a SPA boilerplate working with react, react-redux, react-router, and so on.
 
 # Features
 + react
 + redux
-+ webpack
++ react-redux
++ react-router
++ redux-promise
 + es6
++ webpack
 
 # Get Started
 `npm install`
