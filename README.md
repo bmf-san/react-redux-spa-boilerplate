@@ -17,7 +17,7 @@ This is a SPA boilerplate working with react, react-redux, react-router, and so 
 
 # Other Infomation
 If you want to see a more practical SPA example, please check this repository.
-+ [laravel-react-redux-blog-boilerplate](https://github.com/bmf-san/laravel-react-redux-blog-boilerplate)
++ [bmf-san - Rubel](https://github.com/bmf-san/Rubel)
 
 # License
 This project is licensed under the terms of the MIT license.
